@@ -1,0 +1,55 @@
+.grid{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+body{
+    background-color: #808080;
+}
+
+.item{
+    background-color: blueviolet;
+}
+
+.header{
+    text-align: center;
+    border: solid(19, 17, 17);
+    background-color: rgb(251, 92, 92);
+}
+
+.text{
+    background-color: yellow;
+    text-align: center;
+    font: caption;
+}
+
+.we h1{
+    background-color: black;
+    color: pink;
+    display: flex;
+    margin-top: 100px;
+    font:oblique;
+}
+
+.black{
+    background-color: plum;
+    text-align: center;
+}  
+
+.black h1{
+    background-color: hotpink;
+}
+
+.pink{
+    background-color: salmon;
+    text-align: center;
+}
+
+.pink h4{
+    background-color: snow;
+}
+
+.pink h2{
+    background-color: steelblue;
+}
